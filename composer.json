@@ -1,0 +1,9 @@
+{
+    "name": "malik/usupov",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Photos\\": ""
+        }
+    }
+}
